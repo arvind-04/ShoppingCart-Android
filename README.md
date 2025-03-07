@@ -24,7 +24,7 @@
 
 
 ## 🎥 Demo Video
-[![Watch the video](https://youtube.com/shorts/pkU-ISraibk)
+[![Watch the video](https://img.youtube.com/vi/pkU-ISraibk/maxresdefault.jpg)](https://youtube.com/shorts/pkU-ISraibk)
 
 ---
 
